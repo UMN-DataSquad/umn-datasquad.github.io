@@ -22,9 +22,9 @@ email      : chennesy@umn.edu #this is also the email contact forms will go to
 description: "University of Minnesota Data Squad program"
 author     : Cody Hennesy
 
-logo:     #optional, defaults to site title
-  path: assets/img/dsinternational.svg
-  height: 60 #height in px, defaults to 52px
+#logo:     #optional, defaults to site title
+#  path: assets/img/dsinternational.svg
+#  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
